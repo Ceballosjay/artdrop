@@ -1,0 +1,222 @@
+[
+  {
+    "key": "artist:1",
+    "value": {
+      "id": "1",
+      "name": "Artist #1",
+      "status": "active",
+      "categories": ["abstract, cityscape"],
+      "title": "title #1",
+      "description": "Description about artist #1",
+      "location": {
+        "city": "City example",
+        "state": "State example",
+        "country": "Country example"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "artist1.com",
+        "instagram": "@artist1Instagram",
+        "facebook": "artist1Facebook",
+        "youtube": "artist1YT"
+      },
+      "imgs_about": ["public/europa.jpg"],
+      "imgs_profile": ["public/europa.jpg"]
+    },
+    "label1": "active:1",
+    "label2": "email@example.com"
+  },
+  {
+    "key": "artist:2",
+    "value": {
+      "id": "2",
+      "name": "Artist #2",
+      "status": "inactive",
+      "categories": ["minimalism, figurative"],
+      "title": "title #2",
+      "description": "Description about artist #2",
+      "location": {
+        "city": "City example",
+        "state": "State example",
+        "country": "Country example"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "artist2.com",
+        "instagram": "@artist2Instagram",
+        "facebook": "artist2Facebook",
+        "youtube": "artist2YT"
+      },
+      "imgs_about": ["public/europa.jpg"],
+      "imgs_profile": ["public/europa.jpg"]
+    },
+    "label1": "inactive:2",
+    "label2": "email2@example.com"
+  },
+  {
+    "key": "artist:3",
+    "value": {
+      "id": "3",
+      "name": "Artist #3",
+      "status": "active",
+      "categories": ["fantasy, realism"],
+      "title": "title #3",
+      "description": "Description about artist #3",
+      "location": {
+        "city": "City example",
+        "state": "State example",
+        "country": "Country example"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "artist3.com",
+        "instagram": "@artist3Instagram",
+        "facebook": "artist3Facebook",
+        "youtube": "artist3YT"
+      },
+      "imgs_about": ["public/europa.jpg"],
+      "imgs_profile": ["public/europa.jpg"]
+    },
+    "label1": "active:3",
+    "label2": "email3@example.com"
+  },
+  {
+    "key": "artist:4",
+    "value": {
+      "id": "4",
+      "name": "Artist #4",
+      "status": "active",
+      "categories": ["street_art, pop_art"],
+      "title": "title #4",
+      "description": "Description about artist #4",
+      "location": {
+        "city": "City example",
+        "state": "State example",
+        "country": "Country example"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "artist4.com",
+        "instagram": "@artist4Instagram",
+        "facebook": "artist4Facebook",
+        "youtube": "artist4YT"
+      },
+      "imgs_about": ["public/europa.jpg"],
+      "imgs_profile": ["public/europa.jpg"]
+    },
+    "label1": "active:4",
+    "label2": "email4@example.com"
+  },
+  {
+    "key": "plaques:1619098a-0ad7-479a-ac0c-ed3724550ed7",
+    "value": {
+      "id": "1619098a-0ad7-479a-ac0c-ed3724550ed7",
+      "title": "Europa",
+      "description": "Oil on Canvas by Christoper Sharits",
+      "img":["public/europa.jpg"],
+      "currency": "usd",
+      "currency_amount": "10000",
+      "categories": ["abstract"]
+    },
+    "label1": "Christoper Sharits",
+    "label2": "1"
+  },
+  {
+    "key": "plaques:84a9e665-12f8-4c06-87f2-578b3c7912e6",
+    "value": {
+      "id": "84a9e665-12f8-4c06-87f2-578b3c7912e6",
+      "title": "Galaxy",
+      "description": "Oil on Canvas by Christoper Sharits",
+      "img":["public/swirl.jpg"],
+      "currency": "usd",
+      "currency_amount": "10000",
+      "categories": ["cityscape"]
+    },
+    "label1": "Christoper Sharits",
+    "label2": "1"
+  },
+  {
+    "key": "plaques:63f56cca9e7379d2290d95f0",
+    "value": {
+      "id": "63f56cca9e7379d2290d95f0",
+      "title": "Other",
+      "description": "Oil on Canvas by Temacti June",
+      "img":["public/europa.jpg"],
+      "currency": "usd",
+      "currency_amount": "10000",
+      "categories": ["minimalism"]
+    },
+    "label1": "Temacti June",
+    "label2": "2"
+  },
+  {
+    "key": "plaques:63f56cca9e7379d2290d95f1",
+    "value": {
+      "id": "63f56cca9e7379d2290d95f1",
+      "title": "Missing",
+      "description": "Oil on Canvas by Temacti June",
+      "img":["public/swirl.jpg"],
+      "currency": "usd",
+      "currency_amount": "10000",
+      "categories": ["figurative"]
+    },
+    "label1": "Temacti June",
+    "label2": "2"
+  },
+  {
+    "key": "plaques:63f56cca9e7379d2290d95f2",
+    "value": {
+      "id": "63f56cca9e7379d2290d95f2",
+      "title": "Lollipop",
+      "description": "Oil on Canvas by Kirk Picard",
+      "img":["public/europa.jpg"],
+      "currency": "usd",
+      "currency_amount": "10000",
+      "categories": ["fantasy"]
+    },
+    "label1": "Kirk Picard",
+    "label2": "3"
+  },
+  {
+    "key": "plaques:63f56cca9e7379d2290d95f3",
+    "value": {
+      "id": "63f56cca9e7379d2290d95f3",
+      "title": "Menso",
+      "description": "Oil on Canvas by Kirk Picard",
+      "img":["public/swirl.jpg"],
+      "currency": "usd",
+      "currency_amount": "10000",
+      "categories": ["realism"]
+    },
+    "label1": "Kirk Picard",
+    "label2": "3"
+  },
+  {
+    "key": "plaques:63f56cca9e7379d2290d95f4",
+    "value": {
+      "id": "63f56cca9e7379d2290d95f4",
+      "title": "Jonny",
+      "description": "Oil on Canvas by John Doe",
+      "img":["public/europa.jpg"],
+      "currency": "usd",
+      "currency_amount": "10000",
+      "categories": ["street_art"]
+    },
+    "label1": "John Doe",
+    "label2": "4"
+  },
+  {
+    "key": "plaques:63f56cca9e7379d2290d95f5",
+    "value": {
+      "id": "63f56cca9e7379d2290d95f5",
+      "title": "Jo",
+      "description": "Oil on Canvas by John Doe",
+      "img":["public/swirl.jpg"],
+      "currency": "usd",
+      "currency_amount": "10000",
+      "categories": ["pop_art"]
+    },
+    "label1": "John Doe",
+    "label2": "4"
+  }
+]
