@@ -1,4 +1,4 @@
-const Categories = Object.freeze({
+const CategoriesEnum = Object.freeze({
   LANDSCAPE: 'landscape',
   ABSTRACT: 'abstract',
   PORTRAIT: 'portrait',
