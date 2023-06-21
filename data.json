@@ -6,7 +6,7 @@
       "name": "Christoper Sharits",
       "status": "active",
       "categories": ["abstract, cityscape"],
-      "title": "title #1",
+      "title": "Sharits",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "location": {
         "city": "Montgomery",
@@ -15,10 +15,10 @@
       },
       "metadata": {
         "phone": "1234567890",
-        "site": "artist1.com",
-        "instagram": "@artist1Instagram",
-        "facebook": "artist1Facebook",
-        "youtube": "artist1YT"
+        "site": "christoper.com",
+        "instagram": "@ChristoperInstagram",
+        "facebook": "ChristoperFacebook",
+        "youtube": "ChristoperYT"
       },
       "imgs_about": ["public/europa.jpg"],
       "imgs_profile": ["public/europa.jpg"]
@@ -33,7 +33,7 @@
       "name": "Temacti June",
       "status": "inactive",
       "categories": ["minimalism, figurative"],
-      "title": "title #2",
+      "title": "June",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum posuere urna nec tincidunt praesent semper. Leo in vitae turpis massa. In metus vulputate eu scelerisque felis imperdiet proin fermentum. Sit amet aliquam id diam maecenas ultricies mi eget mauris. Dolor magna eget est lorem. Ac turpis egestas sed tempus. A diam maecenas sed enim ut sem viverra. Massa vitae tortor condimentum lacinia quis vel. Vestibulum rhoncus est pellentesque elit. Eu lobortis elementum nibh tellus molestie nunc. Egestas quis ipsum suspendisse ultrices. Gravida neque convallis a cras. Non sodales neque sodales ut etiam sit amet nisl.",
       "location": {
         "city": "Phoenix",
@@ -42,10 +42,10 @@
       },
       "metadata": {
         "phone": "1234567890",
-        "site": "artist2.com",
-        "instagram": "@artist2Instagram",
-        "facebook": "artist2Facebook",
-        "youtube": "artist2YT"
+        "site": "temacti.com",
+        "instagram": "@TemactiInstagram",
+        "facebook": "TemactiFacebook",
+        "youtube": "TemactiYT"
       },
       "imgs_about": ["public/europa.jpg"],
       "imgs_profile": ["public/europa.jpg"]
@@ -60,7 +60,7 @@
       "name": "Kirk Picard",
       "status": "active",
       "categories": ["fantasy, realism"],
-      "title": "title #3",
+      "title": "Picard",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tincidunt dui ut ornare lectus sit amet est. Nunc non blandit massa enim nec dui. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Egestas maecenas pharetra convallis posuere. Lorem sed risus ultricies tristique nulla. Nunc sed id semper risus in. Sit amet consectetur adipiscing elit. Massa sed elementum tempus egestas sed sed. Tellus integer feugiat scelerisque varius morbi enim nunc. Sit amet purus gravida quis blandit turpis cursus in.",
       "location": {
         "city": "Little Rock",
@@ -69,10 +69,10 @@
       },
       "metadata": {
         "phone": "1234567890",
-        "site": "artist3.com",
-        "instagram": "@artist3Instagram",
-        "facebook": "artist3Facebook",
-        "youtube": "artist3YT"
+        "site": "kirk.com",
+        "instagram": "@KirkInstagram",
+        "facebook": "KirkFacebook",
+        "youtube": "KirkYT"
       },
       "imgs_about": ["public/europa.jpg"],
       "imgs_profile": ["public/europa.jpg"]
@@ -87,7 +87,7 @@
       "name": "John Doe",
       "status": "active",
       "categories": ["street_art, pop_art"],
-      "title": "title #4",
+      "title": "Doe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut. Sit amet aliquam id diam maecenas ultricies mi eget. Ut diam quam nulla porttitor massa id neque aliquam. Neque sodales ut etiam sit amet nisl purus. Neque viverra justo nec ultrices dui sapien eget mi. Cursus euismod quis viverra nibh cras pulvinar mattis. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Ut morbi tincidunt augue interdum velit euismod. Sit amet consectetur adipiscing elit. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget gravida. Fermentum iaculis eu non diam phasellus. Sed viverra tellus in hac. Semper viverra nam libero justo laoreet.",
       "location": {
         "city": "California",
@@ -96,10 +96,10 @@
       },
       "metadata": {
         "phone": "1234567890",
-        "site": "artist4.com",
-        "instagram": "@artist4Instagram",
-        "facebook": "artist4Facebook",
-        "youtube": "artist4YT"
+        "site": "John.com",
+        "instagram": "@JohnInstagram",
+        "facebook": "JohnFacebook",
+        "youtube": "JohnYT"
       },
       "imgs_about": ["public/europa.jpg"],
       "imgs_profile": ["public/europa.jpg"]
