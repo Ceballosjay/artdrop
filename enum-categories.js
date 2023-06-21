@@ -1,4 +1,4 @@
-const Categories {
+const Categories = Object.freeze({
   LANDSCAPE: 'landscape',
   ABSTRACT: 'abstract',
   PORTRAIT: 'portrait',
@@ -17,4 +17,4 @@ const Categories {
   REALISM: 'realism',
   FANTASY: 'fantasy',
   ILLUSTRATION: 'illustration'
-}
+})
