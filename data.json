@@ -3,15 +3,15 @@
     "key": "artist:1",
     "value": {
       "id": "1",
-      "name": "Artist #1",
+      "name": "Christoper Sharits",
       "status": "active",
       "categories": ["abstract, cityscape"],
       "title": "title #1",
-      "description": "Description about artist #1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "location": {
-        "city": "City example",
-        "state": "State example",
-        "country": "Country example"
+        "city": "Montgomery",
+        "state": "Alabama",
+        "country": "United States"
       },
       "metadata": {
         "phone": "1234567890",
@@ -30,15 +30,15 @@
     "key": "artist:2",
     "value": {
       "id": "2",
-      "name": "Artist #2",
+      "name": "Temacti June",
       "status": "inactive",
       "categories": ["minimalism, figurative"],
       "title": "title #2",
-      "description": "Description about artist #2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum posuere urna nec tincidunt praesent semper. Leo in vitae turpis massa. In metus vulputate eu scelerisque felis imperdiet proin fermentum. Sit amet aliquam id diam maecenas ultricies mi eget mauris. Dolor magna eget est lorem. Ac turpis egestas sed tempus. A diam maecenas sed enim ut sem viverra. Massa vitae tortor condimentum lacinia quis vel. Vestibulum rhoncus est pellentesque elit. Eu lobortis elementum nibh tellus molestie nunc. Egestas quis ipsum suspendisse ultrices. Gravida neque convallis a cras. Non sodales neque sodales ut etiam sit amet nisl.",
       "location": {
-        "city": "City example",
-        "state": "State example",
-        "country": "Country example"
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "United States"
       },
       "metadata": {
         "phone": "1234567890",
@@ -57,15 +57,15 @@
     "key": "artist:3",
     "value": {
       "id": "3",
-      "name": "Artist #3",
+      "name": "Kirk Picard",
       "status": "active",
       "categories": ["fantasy, realism"],
       "title": "title #3",
-      "description": "Description about artist #3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tincidunt dui ut ornare lectus sit amet est. Nunc non blandit massa enim nec dui. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Egestas maecenas pharetra convallis posuere. Lorem sed risus ultricies tristique nulla. Nunc sed id semper risus in. Sit amet consectetur adipiscing elit. Massa sed elementum tempus egestas sed sed. Tellus integer feugiat scelerisque varius morbi enim nunc. Sit amet purus gravida quis blandit turpis cursus in.",
       "location": {
-        "city": "City example",
-        "state": "State example",
-        "country": "Country example"
+        "city": "Little Rock",
+        "state": "Arkansas",
+        "country": "United States"
       },
       "metadata": {
         "phone": "1234567890",
@@ -84,15 +84,15 @@
     "key": "artist:4",
     "value": {
       "id": "4",
-      "name": "Artist #4",
+      "name": "John Doe",
       "status": "active",
       "categories": ["street_art, pop_art"],
       "title": "title #4",
-      "description": "Description about artist #4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut. Sit amet aliquam id diam maecenas ultricies mi eget. Ut diam quam nulla porttitor massa id neque aliquam. Neque sodales ut etiam sit amet nisl purus. Neque viverra justo nec ultrices dui sapien eget mi. Cursus euismod quis viverra nibh cras pulvinar mattis. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Ut morbi tincidunt augue interdum velit euismod. Sit amet consectetur adipiscing elit. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget gravida. Fermentum iaculis eu non diam phasellus. Sed viverra tellus in hac. Semper viverra nam libero justo laoreet.",
       "location": {
-        "city": "City example",
-        "state": "State example",
-        "country": "Country example"
+        "city": "California",
+        "state": "Los Angeles",
+        "country": "United States"
       },
       "metadata": {
         "phone": "1234567890",
@@ -115,10 +115,9 @@
       "description": "Oil on Canvas by Christoper Sharits",
       "img":["public/europa.jpg"],
       "currency": "usd",
-      "currency_amount": "10000",
-      "categories": ["abstract"]
+      "currency_amount": "10000"
     },
-    "label1": "Christoper Sharits",
+    "label1": "abstract",
     "label2": "1"
   },
   {
@@ -129,10 +128,9 @@
       "description": "Oil on Canvas by Christoper Sharits",
       "img":["public/swirl.jpg"],
       "currency": "usd",
-      "currency_amount": "10000",
-      "categories": ["cityscape"]
+      "currency_amount": "10000"
     },
-    "label1": "Christoper Sharits",
+    "label1": "cityscape",
     "label2": "1"
   },
   {
@@ -143,10 +141,9 @@
       "description": "Oil on Canvas by Temacti June",
       "img":["public/europa.jpg"],
       "currency": "usd",
-      "currency_amount": "10000",
-      "categories": ["minimalism"]
+      "currency_amount": "10000"
     },
-    "label1": "Temacti June",
+    "label1": "minimalism",
     "label2": "2"
   },
   {
@@ -157,10 +154,9 @@
       "description": "Oil on Canvas by Temacti June",
       "img":["public/swirl.jpg"],
       "currency": "usd",
-      "currency_amount": "10000",
-      "categories": ["figurative"]
+      "currency_amount": "10000"
     },
-    "label1": "Temacti June",
+    "label1": "figurative",
     "label2": "2"
   },
   {
@@ -171,10 +167,9 @@
       "description": "Oil on Canvas by Kirk Picard",
       "img":["public/europa.jpg"],
       "currency": "usd",
-      "currency_amount": "10000",
-      "categories": ["fantasy"]
+      "currency_amount": "10000"
     },
-    "label1": "Kirk Picard",
+    "label1": "fantasy",
     "label2": "3"
   },
   {
@@ -185,10 +180,9 @@
       "description": "Oil on Canvas by Kirk Picard",
       "img":["public/swirl.jpg"],
       "currency": "usd",
-      "currency_amount": "10000",
-      "categories": ["realism"]
+      "currency_amount": "10000"
     },
-    "label1": "Kirk Picard",
+    "label1": "realism",
     "label2": "3"
   },
   {
@@ -199,10 +193,9 @@
       "description": "Oil on Canvas by John Doe",
       "img":["public/europa.jpg"],
       "currency": "usd",
-      "currency_amount": "10000",
-      "categories": ["street_art"]
+      "currency_amount": "10000"
     },
-    "label1": "John Doe",
+    "label1": "street_art",
     "label2": "4"
   },
   {
@@ -213,10 +206,9 @@
       "description": "Oil on Canvas by John Doe",
       "img":["public/swirl.jpg"],
       "currency": "usd",
-      "currency_amount": "10000",
-      "categories": ["pop_art"]
+      "currency_amount": "10000"
     },
-    "label1": "John Doe",
+    "label1": "pop_art",
     "label2": "4"
   }
 ]
