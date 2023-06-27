@@ -33,7 +33,7 @@
       "description": "Oil on Canvas by Christoper Sharits",
       "img":["public/06fa89b0-a170-4ebb-8b4d-a9986740f4df/europa.jpg"],
       "currency": "usd",
-      "currency_amount": "10000"
+      "currency_amount": "500"
     },
     "label1": "artist:06fa89b0-a170-4ebb-8b4d-a9986740f4df",
     "label2": "abstract"
@@ -46,9 +46,981 @@
       "description": "Oil on Canvas by Christoper Sharits",
       "img":["public/06fa89b0-a170-4ebb-8b4d-a9986740f4df/swirl.jpg"],
       "currency": "usd",
-      "currency_amount": "10000"
+      "currency_amount": "500"
     },
     "label1": "artist:06fa89b0-a170-4ebb-8b4d-a9986740f4df",
+    "label2": "cityscape"
+  }
+]
+[
+  {
+    "key": "artist:85db95ca-7375-4d8c-b801-665b22315790",
+    "value": {
+      "id": "85db95ca-7375-4d8c-b801-665b22315790",
+      "name": "Serena Meadows",
+      "categories": ["landscape"],
+      "title": "Nature's Symphony",
+      "description": "Serena Meadows is a renowned landscape artist known for her ability to capture the harmonious connection between nature and the human spirit. Her paintings depict breathtaking vistas and ethereal landscapes, inviting viewers to immerse themselves in the beauty of the natural world.",
+      "location": {
+        "city": "Arcadia",
+        "state": "California",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "Serena.com",
+        "instagram": "@SerenaInstagram",
+        "facebook": "SerenaFacebook",
+        "youtube": "SerenaYT"
+      },
+      "imgs_about": ["public/85db95ca-7375-4d8c-b801-665b22315790/imageProfile.png"],
+      "imageProfile": ["public/85db95ca-7375-4d8c-b801-665b22315790/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:059fde9f-e493-4b6d-897f-aca2b5a3018e",
+    "value": {
+      "id": "059fde9f-e493-4b6d-897f-aca2b5a3018e",
+      "title": "life",
+      "description": "Oil on Canvas by Serena Meadow",
+      "img":["public/85db95ca-7375-4d8c-b801-665b22315790/life.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:85db95ca-7375-4d8c-b801-665b22315790",
+    "label2": "landscape"
+  },
+  {
+    "key": "plaques:6e2ebb20-27c6-436c-93bd-9e8cc74e13d4",
+    "value": {
+      "id": "6e2ebb20-27c6-436c-93bd-9e8cc74e13d4",
+      "title": "peace",
+      "description": "Oil on Canvas by Serena Meadow",
+      "img":["public/85db95ca-7375-4d8c-b801-665b22315790/peace.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:85db95ca-7375-4d8c-b801-665b22315790",
+    "label2": "landscape"
+  }
+]
+[
+  {
+    "key": "artist:0f3e1b22-c8a5-42b6-93e7-00502062db44",
+    "value": {
+      "id": "0f3e1b22-c8a5-42b6-93e7-00502062db44",
+      "name": "Maximilian Evergreen",
+      "categories": ["Landscape"],
+      "title": "Eternal Horizons",
+      "description": "Maximilian Evergreen is a celebrated landscape artist whose works transport viewers to otherworldly realms. His meticulously crafted paintings showcase enchanting forests, majestic mountains, and serene lakes, evoking a sense of wonder and serenity.",
+      "location": {
+        "city": "Aurora",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "Maximilian.com",
+        "instagram": "@MaximilianInstagram",
+        "facebook": "MaximilianFacebook",
+        "youtube": "MaximilianYT"
+      },
+      "imgs_about": ["public/0f3e1b22-c8a5-42b6-93e7-00502062db44/imageProfile.png"],
+      "imageProfile": ["public/0f3e1b22-c8a5-42b6-93e7-00502062db44/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:0e6bc09a-7afb-4884-942b-5f03d556a8d1",
+    "value": {
+      "id": "0e6bc09a-7afb-4884-942b-5f03d556a8d1",
+      "title": "Newlife",
+      "description": "Oil on Canvas by Maximilian Evergreen",
+      "img":["public/0f3e1b22-c8a5-42b6-93e7-00502062db44/Newlife.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:0f3e1b22-c8a5-42b6-93e7-00502062db44",
+    "label2": "landscape"
+  },
+  {
+    "key": "plaques:2b73d048-c453-490c-896f-a792fa1b642c",
+    "value": {
+      "id": "2b73d048-c453-490c-896f-a792fa1b642c",
+      "title": "alone",
+      "description": "Oil on Canvas by Maximilian Evergreen",
+      "img":["public/0f3e1b22-c8a5-42b6-93e7-00502062db44/alone.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:0f3e1b22-c8a5-42b6-93e7-00502062db44",
+    "label2": "landscape"
+  }
+]
+[
+  {
+    "key": "artist:fe7f87e2-7662-49a7-8139-ec75086a7ab0",
+    "value": {
+      "id": "fe7f87e2-7662-49a7-8139-ec75086a7ab0",
+      "name": "Isabella Riversong",
+      "categories": ["Landscape"],
+      "title": "Whispering Canvases",
+      "description": "Isabella Riversong is a visionary landscape artist renowned for her ability to infuse her paintings with a sense of magic and mystique. Her brushstrokes create captivating scenes that transport viewers into dreamlike landscapes where nature comes alive with secrets waiting to be discovered.",
+      "location": {
+        "city": "Elysium",
+        "state": "Oregon",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "IsabellaRiversong.com",
+        "instagram": "@IsabellaRiversongInstagram",
+        "facebook": "IsabellaRiversongFacebook",
+        "youtube": "IsabellaRiversongYT"
+      },
+      "imgs_about": ["public/fe7f87e2-7662-49a7-8139-ec75086a7ab0/imageProfile.png"],
+      "imageProfile": ["public/fe7f87e2-7662-49a7-8139-ec75086a7ab0/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:1619098a-0ad7-479a-ac0c-ed3724550ed7",
+    "value": {
+      "id": "1619098a-0ad7-479a-ac0c-ed3724550ed7",
+      "title": "sun",
+      "description": "Oil on Canvas by Isabella Riversong",
+      "img":["public/fe7f87e2-7662-49a7-8139-ec75086a7ab0/sun.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:fe7f87e2-7662-49a7-8139-ec75086a7ab0",
+    "label2": "landscape"
+  },
+  {
+    "key": "plaques:84a9e665-12f8-4c06-87f2-578b3c7912e6",
+    "value": {
+      "id": "84a9e665-12f8-4c06-87f2-578b3c7912e6",
+      "title": "Peak",
+      "description": "Oil on Canvas by Isabella Riversong",
+      "img":["public/fe7f87e2-7662-49a7-8139-ec75086a7ab0/Peak.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:fe7f87e2-7662-49a7-8139-ec75086a7ab0",
+    "label2": "landscape"
+  }
+]
+[
+  {
+    "key": "artist:30cb8558-4590-4e14-8b98-64fe553ae638",
+    "value": {
+      "id": "30cb8558-4590-4e14-8b98-64fe553ae638",
+      "name": "Aurora Prism",
+      "categories": ["abstract"],
+      "title": "Ethereal Vibrations",
+      "description": "Aurora Prism is a visionary abstract artist known for her ability to translate emotions into vibrant and captivating visual compositions. Her paintings pulsate with energy, evoking a kaleidoscope of emotions and transporting viewers to a realm of pure imagination.",
+      "location": {
+        "city": "Lumina",
+        "state": "New York",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "AuroraPrism.com",
+        "instagram": "@AuroraPrismInstagram",
+        "facebook": "AuroraPrismFacebook",
+        "youtube": "AuroraPrismYT"
+      },
+      "imgs_about": ["public/30cb8558-4590-4e14-8b98-64fe553ae638/imageProfile.png"],
+      "imageProfile": ["public/30cb8558-4590-4e14-8b98-64fe553ae638/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:f2786458-b517-4107-892d-296a6761f346",
+    "value": {
+      "id": "f2786458-b517-4107-892d-296a6761f346",
+      "title": "light",
+      "description": "Oil on Canvas by Aurora Prism",
+      "img":["public/30cb8558-4590-4e14-8b98-64fe553ae638/light.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:30cb8558-4590-4e14-8b98-64fe553ae638",
+    "label2": "abstract"
+  },
+  {
+    "key": "plaques:c7479b96-4c74-4129-ac23-6613b329feb4",
+    "value": {
+      "id": "c7479b96-4c74-4129-ac23-6613b329feb4",
+      "title": "Flow",
+      "description": "Oil on Canvas by Aurora Prism",
+      "img":["public/30cb8558-4590-4e14-8b98-64fe553ae638/Flow.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:30cb8558-4590-4e14-8b98-64fe553ae638",
+    "label2": "abstract"
+  }
+]
+[
+  {
+    "key": "artist:e54ea4fa-cd5b-4f68-bbc8-6273f956df07",
+    "value": {
+      "id": "e54ea4fa-cd5b-4f68-bbc8-6273f956df07",
+      "name": "Xavier Celeste",
+      "categories": ["abstract"],
+      "title": "Celestial Rhapsody",
+      "description": "Xavier Celeste is a highly sought-after abstract artist who channels the cosmos onto his canvases. His awe-inspiring paintings capture the mysteries of the universe, using bold colors, intricate patterns, and celestial symbolism to create a visual symphony that transcends the boundaries of the imagination.",
+      "location": {
+        "city": "Stellara",
+        "state": "Florida",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "XavierCeleste.com",
+        "instagram": "@XavierCelesteInstagram",
+        "facebook": "XavierCelesteFacebook",
+        "youtube": "XavierCelesteYT"
+      },
+      "imgs_about": ["public/e54ea4fa-cd5b-4f68-bbc8-6273f956df07/imageProfile.png"],
+      "imageProfile": ["public/e54ea4fa-cd5b-4f68-bbc8-6273f956df07/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:c7f7a4bb-186f-479b-9c55-13dd120339c3",
+    "value": {
+      "id": "c7f7a4bb-186f-479b-9c55-13dd120339c3",
+      "title": "Ice Fire",
+      "description": "Oil on Canvas by Xavier Celeste",
+      "img":["public/e54ea4fa-cd5b-4f68-bbc8-6273f956df07/Ice Fire.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:e54ea4fa-cd5b-4f68-bbc8-6273f956df07",
+    "label2": "abstract"
+  },
+  {
+    "key": "plaques:b19196f3-6052-450e-8205-3cf4307b166e",
+    "value": {
+      "id": "b19196f3-6052-450e-8205-3cf4307b166e",
+      "title": "Galaxy",
+      "description": "Oil on Canvas by Xavier Celeste",
+      "img":["public/e54ea4fa-cd5b-4f68-bbc8-6273f956df07/Galaxy.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:e54ea4fa-cd5b-4f68-bbc8-6273f956df07",
+    "label2": "abstract"
+  }
+]
+[
+  {
+    "key": "artist:ddcf310c-a7aa-4aac-a818-e74436a665e6",
+    "value": {
+      "id": "ddcf310c-a7aa-4aac-a818-e74436a665e6",
+      "name": "Isadora Chroma",
+      "categories": ["abstract"],
+      "title": "Chromatic Dreams",
+      "description": "Isadora Chroma is a celebrated abstract artist renowned for her ability to weave emotions and sensations into mesmerizing tapestries of color and form. Her paintings provoke introspection and ignite the imagination, inviting viewers on a transformative journey through the realms of the subconscious.",
+      "location": {
+        "city": "Harmonia",
+        "state": "California",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "IsadoraChroma.com",
+        "instagram": "@IsadoraChromaInstagram",
+        "facebook": "IsadoraChromaFacebook",
+        "youtube": "IsadoraChromaYT"
+      },
+      "imgs_about": ["public/ddcf310c-a7aa-4aac-a818-e74436a665e6/imageProfile.png"],
+      "imageProfile": ["public/ddcf310c-a7aa-4aac-a818-e74436a665e6/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:f6cb03d1-76dd-4c1b-95d0-65e74dff954d",
+    "value": {
+      "id": "f6cb03d1-76dd-4c1b-95d0-65e74dff954d",
+      "title": "wind",
+      "description": "Oil on Canvas by Isadora Chroma",
+      "img":["public/ddcf310c-a7aa-4aac-a818-e74436a665e6/wind.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:ddcf310c-a7aa-4aac-a818-e74436a665e6",
+    "label2": "abstract"
+  },
+  {
+    "key": "plaques:44955f73-5bbf-4499-9881-afb4294f49c8",
+    "value": {
+      "id": "44955f73-5bbf-4499-9881-afb4294f49c8",
+      "title": "missed",
+      "description": "Oil on Canvas by Isadora Chroma",
+      "img":["public/ddcf310c-a7aa-4aac-a818-e74436a665e6/missed.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:ddcf310c-a7aa-4aac-a818-e74436a665e6",
+    "label2": "abstract"
+  }
+]
+[
+  {
+    "key": "artist:67f3bdf5-5103-4a9e-80e8-425095360ec8",
+    "value": {
+      "id": "67f3bdf5-5103-4a9e-80e8-425095360ec8",
+      "name": "Olivia Van der Muse",
+      "categories": ["portrait"],
+      "title": "Eyes of the Soul",
+      "description": "Olivia Van der Muse is a highly esteemed portrait artist renowned for her ability to capture the essence and depth of the human spirit in her paintings. With each brushstroke, she reveals the stories and emotions hidden within her subjects, inviting viewers to connect with the souls portrayed on the canvas.",
+      "location": {
+        "city": "Bellevue",
+        "state": "Washington",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "OliviaVanderMuse.com",
+        "instagram": "@OliviaVanderMuseaInstagram",
+        "facebook": "OliviaVanderMuseFacebook",
+        "youtube": "OliviaVanderMuseYT"
+      },
+      "imgs_about": ["public/67f3bdf5-5103-4a9e-80e8-425095360ec8/imageProfile.png"],
+      "imageProfile": ["public/67f3bdf5-5103-4a9e-80e8-425095360ec8/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:b7b23da4-2145-4c4c-a2c5-ab95497c0cc0",
+    "value": {
+      "id": "b7b23da4-2145-4c4c-a2c5-ab95497c0cc0",
+      "title": "I See",
+      "description": "Oil on Canvas by Olivia Van der Muse",
+      "img":["public/67f3bdf5-5103-4a9e-80e8-425095360ec8/Isee.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:67f3bdf5-5103-4a9e-80e8-425095360ec8",
+    "label2": "portrait"
+  },
+  {
+    "key": "plaques:551d5df7-f919-4aff-960d-c0e736d1601f",
+    "value": {
+      "id": "551d5df7-f919-4aff-960d-c0e736d1601f",
+      "title": "why",
+      "description": "Oil on Canvas by Olivia Van der Muse",
+      "img":["public/67f3bdf5-5103-4a9e-80e8-425095360ec8/why.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:67f3bdf5-5103-4a9e-80e8-425095360ec8",
+    "label2": "portrait"
+  }
+]
+[
+  {
+    "key": "artist:3dd05143-2ffe-43d6-9cc3-8e432c61b585",
+    "value": {
+      "id": "3dd05143-2ffe-43d6-9cc3-8e432c61b585",
+      "name": "Sebastian Laurent",
+      "categories": ["portrait"],
+      "title": "Reflections Unveiled",
+      "description": "Sebastian Laurent is a masterful portrait artist whose works are celebrated for their exquisite attention to detail and the profound emotions they convey. His paintings reveal the inner world of his subjects, capturing their vulnerability, strength, and the intricate nuances of human existence.",
+      "location": {
+        "city": "Montparnasse",
+        "state": "Paris",
+        "country": "France"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "SebastianLaurent.com",
+        "instagram": "@SebastianLaurentInstagram",
+        "facebook": "SebastianLaurentFacebook",
+        "youtube": "SebastianLaurentYT"
+      },
+      "imgs_about": ["public/3dd05143-2ffe-43d6-9cc3-8e432c61b585/imageProfile.png"],
+      "imageProfile": ["public/3dd05143-2ffe-43d6-9cc3-8e432c61b585/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:5019bc7d-db30-474e-8020-6554c8ff4c8b",
+    "value": {
+      "id": "5019bc7d-db30-474e-8020-6554c8ff4c8b",
+      "title": "love",
+      "description": "Oil on Canvas by Sebastian Laurent",
+      "img":["public/3dd05143-2ffe-43d6-9cc3-8e432c61b585/love.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:3dd05143-2ffe-43d6-9cc3-8e432c61b585",
+    "label2": "portrait"
+  },
+  {
+    "key": "plaques:322dd469-dcd7-4c2a-bb35-95ef5d1803b2",
+    "value": {
+      "id": "322dd469-dcd7-4c2a-bb35-95ef5d1803b2",
+      "title": "care",
+      "description": "Oil on Canvas by Sebastian Laurent",
+      "img":["public/3dd05143-2ffe-43d6-9cc3-8e432c61b585/care.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:3dd05143-2ffe-43d6-9cc3-8e432c61b585",
+    "label2": "portrait"
+  }
+]
+[
+  {
+    "key": "artist:d655d65b-6ecb-44fa-b6fb-97481d3c15a7",
+    "value": {
+      "id": "d655d65b-6ecb-44fa-b6fb-97481d3c15a7",
+      "name": "Isabella D'Angelo",
+      "categories": ["portrait"],
+      "title": "Whispers of Identity",
+      "description": "Isabella D'Angelo is a renowned portrait artist known for her captivating ability to portray the multifaceted nature of human identity. Her paintings explore the depth of individuality, drawing viewers into a world of introspection and contemplation as they witness the rich tapestry of humanity come alive on the canvas.",
+      "location": {
+        "city": "Florentia",
+        "state": "Tuscany",
+        "country": "Italy"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "IsabellaD'Angelo.com",
+        "instagram": "@IsabellaD'AngeloInstagram",
+        "facebook": "IsabellaD'AngeloFacebook",
+        "youtube": "IsabellaD'AngeloYT"
+      },
+      "imgs_about": ["public/d655d65b-6ecb-44fa-b6fb-97481d3c15a7/imageProfile.png"],
+      "imageProfile": ["public/d655d65b-6ecb-44fa-b6fb-97481d3c15a7/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:170b5675-7bdd-4057-9814-2bc75e5f07e3",
+    "value": {
+      "id": "170b5675-7bdd-4057-9814-2bc75e5f07e3",
+      "title": "cheeks",
+      "description": "Oil on Canvas by Isabella D'Angelo",
+      "img":["public/d655d65b-6ecb-44fa-b6fb-97481d3c15a7/cheeks.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:d655d65b-6ecb-44fa-b6fb-97481d3c15a7",
+    "label2": "portrait"
+  },
+  {
+    "key": "plaques:340423d6-392f-4ffe-b9e3-fb1d691005c1",
+    "value": {
+      "id": "340423d6-392f-4ffe-b9e3-fb1d691005c1",
+      "title": "coin",
+      "description": "Oil on Canvas by Isabella D'Angelo",
+      "img":["public/d655d65b-6ecb-44fa-b6fb-97481d3c15a7/coin.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:d655d65b-6ecb-44fa-b6fb-97481d3c15a7",
+    "label2": "portrait"
+  }
+]
+[
+  {
+    "key": "artist:086d5c74-4a81-42c3-a914-73f53974f70e",
+    "value": {
+      "id": "086d5c74-4a81-42c3-a914-73f53974f70e",
+      "name": "Victoria Sterling",
+      "categories": ["still-life"],
+      "title": "Capturing Serenity",
+      "description": "Victoria Sterling is a celebrated still-life artist renowned for her ability to transform ordinary objects into extraordinary compositions. Her meticulous attention to detail and play of light and shadow bring life to her paintings, immersing viewers in a world of tranquility and contemplation.",
+      "location": {
+        "city": "Harmonyville",
+        "state": "California",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "VictoriaSterling.com",
+        "instagram": "@VictoriaSterlingInstagram",
+        "facebook": "VictoriaSterlingFacebook",
+        "youtube": "VictoriaSterlingYT"
+      },
+      "imgs_about": ["public/086d5c74-4a81-42c3-a914-73f53974f70e/imageProfile.png"],
+      "imageProfile": ["public/086d5c74-4a81-42c3-a914-73f53974f70e/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:2160b62f-7f5a-4bb1-9c17-bda0b9d12107",
+    "value": {
+      "id": "2160b62f-7f5a-4bb1-9c17-bda0b9d12107",
+      "title": "silver",
+      "description": "Oil on Canvas by Victoria Sterling",
+      "img":["public/086d5c74-4a81-42c3-a914-73f53974f70e/silver.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:086d5c74-4a81-42c3-a914-73f53974f70e",
+    "label2": "still-life"
+  },
+  {
+    "key": "plaques:3399757c-8496-4ef5-a245-f311301408ab",
+    "value": {
+      "id": "3399757c-8496-4ef5-a245-f311301408ab",
+      "title": "gold",
+      "description": "Oil on Canvas by Victoria Sterling",
+      "img":["public/086d5c74-4a81-42c3-a914-73f53974f70e/gold.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:086d5c74-4a81-42c3-a914-73f53974f70e",
+    "label2": "still-life"
+  }
+]
+[
+  {
+    "key": "artist:d7c4499b-5d46-4229-8ed3-65cd2fa13858",
+    "value": {
+      "id": "d7c4499b-5d46-4229-8ed3-65cd2fa13858",
+      "name": "Alexander Montclair",
+      "categories": ["still-life"],
+      "title": "Timeless Treasures",
+      "description": "Alexander Montclair's still-life paintings are a testament to his mastery of capturing the essence of objects frozen in time. Each brushstroke reveals the beauty and intricacy of everyday items, inviting viewers to appreciate the significance and stories hidden within the simplest of things.",
+      "location": {
+        "city": "Le Fleur",
+        "state": "Provence",
+        "country": "France"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "AlexanderMontclair.com",
+        "instagram": "@AlexanderMontclairInstagram",
+        "facebook": "AlexanderMontclairFacebook",
+        "youtube": "AlexanderMontclairoYT"
+      },
+      "imgs_about": ["public/d7c4499b-5d46-4229-8ed3-65cd2fa13858/imageProfile.png"],
+      "imageProfile": ["public/d7c4499b-5d46-4229-8ed3-65cd2fa13858/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:4eed64bd-4593-415f-b409-9ab06c6b3aca",
+    "value": {
+      "id": "4eed64bd-4593-415f-b409-9ab06c6b3aca",
+      "title": "oil",
+      "description": "Oil on Canvas by Alexander Montclair",
+      "img":["public/d7c4499b-5d46-4229-8ed3-65cd2fa13858/oil.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:d7c4499b-5d46-4229-8ed3-65cd2fa13858",
+    "label2": "still-life"
+  },
+  {
+    "key": "plaques:53adfbd2-6159-49dc-82d5-245d0b80e63b",
+    "value": {
+      "id": "53adfbd2-6159-49dc-82d5-245d0b80e63b",
+      "title": "lemon",
+      "description": "Oil on Canvas by Alexander Montclair",
+      "img":["public/d7c4499b-5d46-4229-8ed3-65cd2fa13858/lemon.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:d7c4499b-5d46-4229-8ed3-65cd2fa13858",
+    "label2": "still-life"
+  }
+]
+[
+  {
+    "key": "artist:1d9687c2-86ff-4612-81fb-dc87dafd71a5",
+    "value": {
+      "id": "1d9687c2-86ff-4612-81fb-dc87dafd71a5",
+      "name": "Isabella Rosetti",
+      "categories": ["still-life"],
+      "title": "Harmony in Simplicity",
+      "description": "Isabella Rosetti is a renowned still-life artist who finds beauty in simplicity. Her paintings evoke a sense of tranquility and balance, as she carefully arranges objects and imbues them with a serene atmosphere. Through her art, she encourages viewers to pause, appreciate the quiet moments, and find solace in simplicity.",
+      "location": {
+        "city": "Serenita",
+        "state": "Tuscany",
+        "country": "Italy"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "IsabellaRosetti.com",
+        "instagram": "@IsabellaRosettiInstagram",
+        "facebook": "IsabellaRosettiFacebook",
+        "youtube": "IsabellaRosettiYT"
+      },
+      "imgs_about": ["public/1d9687c2-86ff-4612-81fb-dc87dafd71a5/imageProfile.png"],
+      "imageProfile": ["public/1d9687c2-86ff-4612-81fb-dc87dafd71a5/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:d4331a99-2ba6-40b6-a70f-445b1c3e68b1",
+    "value": {
+      "id": "d4331a99-2ba6-40b6-a70f-445b1c3e68b1",
+      "title": "fresh",
+      "description": "Oil on Canvas by Isabella Rosetti",
+      "img":["public/1d9687c2-86ff-4612-81fb-dc87dafd71a5/fresh.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:1d9687c2-86ff-4612-81fb-dc87dafd71a5",
+    "label2": "still-life"
+  },
+  {
+    "key": "plaques:81fb8459-81e8-49e6-b29c-03ea824634f8",
+    "value": {
+      "id": "81fb8459-81e8-49e6-b29c-03ea824634f8",
+      "title": "clean",
+      "description": "Oil on Canvas by Isabella Rosetti",
+      "img":["public/1d9687c2-86ff-4612-81fb-dc87dafd71a5/clean.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:1d9687c2-86ff-4612-81fb-dc87dafd71a5",
+    "label2": "still-life"
+  }
+]
+[
+  {
+    "key": "artist:e930ea85-df5c-49c4-9819-149c5da72c0d",
+    "value": {
+      "id": "e930ea85-df5c-49c4-9819-149c5da72c0d",
+      "name": "Maximillian Orion",
+      "categories": ["figurative"],
+      "title": "Galactic Reverie",
+      "description": "Maximillian Orion is a renowned artist who skillfully intertwines figurative elements with cosmic imagery. His paintings transport viewers to surreal realms, where human figures float amidst swirling galaxies and cosmic phenomena. Through his art, he explores the interplay between individuality and the vastness of the universe.",
+      "location": {
+        "city": "Astralis",
+        "state": "California",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "Maximillian.com",
+        "instagram": "@MaximillianInstagram",
+        "facebook": "MaximillianFacebook",
+        "youtube": "MaximillianYT"
+      },
+      "imgs_about": ["public/e930ea85-df5c-49c4-9819-149c5da72c0d/imageProfile.png"],
+      "imageProfile": ["public/e930ea85-df5c-49c4-9819-149c5da72c0d/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:e2310458-82ef-4b0f-a546-74eae177f2e1",
+    "value": {
+      "id": "e2310458-82ef-4b0f-a546-74eae177f2e1",
+      "title": "zeus",
+      "description": "Oil on Canvas by Maximillian Orion",
+      "img":["public/e930ea85-df5c-49c4-9819-149c5da72c0d/zeus.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:e930ea85-df5c-49c4-9819-149c5da72c0d",
+    "label2": "figurative"
+  },
+  {
+    "key": "plaques:600eb332-e20b-4a4f-a249-e9a59b6cfeee",
+    "value": {
+      "id": "600eb332-e20b-4a4f-a249-e9a59b6cfeee",
+      "title": "death",
+      "description": "Oil on Canvas by Maximillian Orion",
+      "img":["public/e930ea85-df5c-49c4-9819-149c5da72c0d/death.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:e930ea85-df5c-49c4-9819-149c5da72c0d",
+    "label2": "figurative"
+  }
+]
+[
+  {
+    "key": "artist:31b7a330-e399-4187-88bf-1dc01faa6d18",
+    "value": {
+      "id": "31b7a330-e399-4187-88bf-1dc01faa6d18",
+      "name": "Celeste Nova",
+      "categories": ["figurative"],
+      "title": "Cosmic Expressions",
+      "description": "Celeste Nova is a visionary figurative artist who seamlessly merges human forms with celestial realms. Her paintings depict ethereal beings suspended in cosmic landscapes, exploring the connection between humanity and the vastness of the universe. Through her art, she invites viewers to contemplate the mysteries of existence.",
+      "location": {
+        "city": "Stellara",
+        "state": "Florida",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "CelesteNova.com",
+        "instagram": "@CelesteNovaInstagram",
+        "facebook": "CelesteNovaFacebook",
+        "youtube": "CelesteNovaYT"
+      },
+      "imgs_about": ["public/31b7a330-e399-4187-88bf-1dc01faa6d18/imageProfile.png"],
+      "imageProfile": ["public/31b7a330-e399-4187-88bf-1dc01faa6d18/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:cccf4a9d-09c7-40a1-82ff-d0d03bf4ca8b",
+    "value": {
+      "id": "cccf4a9d-09c7-40a1-82ff-d0d03bf4ca8b",
+      "title": "connection",
+      "description": "Oil on Canvas by Celeste Nova",
+      "img":["public/31b7a330-e399-4187-88bf-1dc01faa6d18/connection.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:31b7a330-e399-4187-88bf-1dc01faa6d18",
+    "label2": "figurative"
+  },
+  {
+    "key": "plaques:45caf366-253d-4438-83d4-aad740c717b8",
+    "value": {
+      "id": "45caf366-253d-4438-83d4-aad740c717b8",
+      "title": "space",
+      "description": "Oil on Canvas by Celeste Nova",
+      "img":["public/31b7a330-e399-4187-88bf-1dc01faa6d18/space.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:31b7a330-e399-4187-88bf-1dc01faa6d18",
+    "label2": "figurative"
+  }
+]
+[
+  {
+    "key": "artist:e9475421-21ce-4b7d-a1f5-516610efca94",
+    "value": {
+      "id": "e9475421-21ce-4b7d-a1f5-516610efca94",
+      "name": "Aurora Stellaris",
+      "categories": ["figurative"],
+      "title": "Celestial Embrace",
+      "description": "Aurora Stellaris is a celebrated artist known for her captivating figurative paintings that incorporate celestial motifs. Her works depict human figures in cosmic environments, symbolizing the transcendence of earthly boundaries and the exploration of the inner cosmos. Through her art, she invites viewers to embark on a journey of self-discovery and cosmic connection.",
+      "location": {
+        "city": "Luminaria",
+        "state": "New Mexico",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "Stellaris.com",
+        "instagram": "@StellarisInstagram",
+        "facebook": "StellarisFacebook",
+        "youtube": "StellarisYT"
+      },
+      "imgs_about": ["public/e9475421-21ce-4b7d-a1f5-516610efca94/imageProfile.png"],
+      "imageProfile": ["public/e9475421-21ce-4b7d-a1f5-516610efca94/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:0830e6dd-db71-4fb0-96f7-cca367fe830b",
+    "value": {
+      "id": "0830e6dd-db71-4fb0-96f7-cca367fe830b",
+      "title": "pace",
+      "description": "Oil on Canvas by Aurora Stellaris",
+      "img":["public/e9475421-21ce-4b7d-a1f5-516610efca94/pace.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:e9475421-21ce-4b7d-a1f5-516610efca94",
+    "label2": "figurative"
+  },
+  {
+    "key": "plaques:d7376977-abc7-4837-afc2-a39b11c6d812",
+    "value": {
+      "id": "d7376977-abc7-4837-afc2-a39b11c6d812",
+      "title": "known",
+      "description": "Oil on Canvas by Aurora Stellaris",
+      "img":["public/e9475421-21ce-4b7d-a1f5-516610efca94/known.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:e9475421-21ce-4b7d-a1f5-516610efca94",
+    "label2": "figurative"
+  }
+]
+[
+  {
+    "key": "artist:ae81eaf2-edae-4d68-b070-bd489587bf5d",
+    "value": {
+      "id": "ae81eaf2-edae-4d68-b070-bd489587bf5d",
+      "name": "Maya Forestier",
+      "categories": ["cityscape"],
+      "title": "Urban Wilderness",
+      "description": "Maya Forestier is a highly acclaimed artist known for her mesmerizing cityscape paintings set amidst lush jungle landscapes. Her works capture the harmonious coexistence of urban architecture and the untamed beauty of nature, inviting viewers to reflect on the delicate balance between civilization and the wild.",
+      "location": {
+        "city": "Verdopolis",
+        "state": "Amazonas",
+        "country": "Brazil"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "Forestier.com",
+        "instagram": "@ForestierInstagram",
+        "facebook": "ForestierFacebook",
+        "youtube": "ForestierYT"
+      },
+      "imgs_about": ["public/ae81eaf2-edae-4d68-b070-bd489587bf5d/imageProfile.png"],
+      "imageProfile": ["public/ae81eaf2-edae-4d68-b070-bd489587bf5d/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:91bada9d-854b-4420-bf2d-698654ae4647",
+    "value": {
+      "id": "91bada9d-854b-4420-bf2d-698654ae4647",
+      "title": "Brazil",
+      "description": "Oil on Canvas by Maya Forestier",
+      "img":["public/ae81eaf2-edae-4d68-b070-bd489587bf5d/Brazil.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:ae81eaf2-edae-4d68-b070-bd489587bf5d",
+    "label2": "cityscape"
+  },
+  {
+    "key": "plaques:d740f4fa-3229-4560-855d-faf80fb5cb7d",
+    "value": {
+      "id": "d740f4fa-3229-4560-855d-faf80fb5cb7d",
+      "title": "central",
+      "description": "Oil on Canvas by Maya Forestier",
+      "img":["public/ae81eaf2-edae-4d68-b070-bd489587bf5d/central.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:ae81eaf2-edae-4d68-b070-bd489587bf5d",
+    "label2": "cityscape"
+  }
+]
+[
+  {
+    "key": "artist:c9659ab7-dd41-4873-a198-8cea016059e0",
+    "value": {
+      "id": "c9659ab7-dd41-4873-a198-8cea016059e0",
+      "name": "Xavier Greenleaf",
+      "categories": ["cityscape"],
+      "title": "Metropolitan Canopy",
+      "description": "Xavier Greenleaf's paintings transport viewers to a world where towering cityscapes emerge from dense tropical jungles. His artwork explores the juxtaposition of human-made structures against the backdrop of thriving foliage, inviting contemplation on the relationship between urban development and the preservation of natural ecosystems.",
+      "location": {
+        "city": "Evergreen City",
+        "state": "Florida",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "Greenleaf.com",
+        "instagram": "@GreenleafInstagram",
+        "facebook": "GreenleafFacebook",
+        "youtube": "GreenleafYT"
+      },
+      "imgs_about": ["public/c9659ab7-dd41-4873-a198-8cea016059e0/imageProfile.png"],
+      "imageProfile": ["public/c9659ab7-dd41-4873-a198-8cea016059e0/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:fb2928f6-5d06-4a7e-90e8-2dcdca56ff22",
+    "value": {
+      "id": "fb2928f6-5d06-4a7e-90e8-2dcdca56ff22",
+      "title": "state building",
+      "description": "Oil on Canvas by Xavier Greenleaf",
+      "img":["public/c9659ab7-dd41-4873-a198-8cea016059e0/state building.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:c9659ab7-dd41-4873-a198-8cea016059e0",
+    "label2": "cityscape"
+  },
+  {
+    "key": "plaques:5e063336-c752-4bb6-9a61-b7bbe5ea5588",
+    "value": {
+      "id": "5e063336-c752-4bb6-9a61-b7bbe5ea5588",
+      "title": "greenlife",
+      "description": "Oil on Canvas by Xavier Greenleaf",
+      "img":["public/c9659ab7-dd41-4873-a198-8cea016059e0/greenlife.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:c9659ab7-dd41-4873-a198-8cea016059e0",
+    "label2": "cityscape"
+  }
+]
+[
+  {
+    "key": "artist:95b1e927-14b7-45d0-9147-e031da5b9766",
+    "value": {
+      "id": "95b1e927-14b7-45d0-9147-e031da5b9766",
+      "name": "Isabella Rainforest",
+      "categories": ["cityscape"],
+      "title": "Concrete Oasis",
+      "description": "Isabella Rainforest's cityscape paintings in jungles are renowned for their captivating portrayal of urban environments harmoniously blending with verdant greenery. Her artwork highlights the integration of human civilization within lush jungle settings, urging viewers to appreciate the beauty and interconnectedness of the natural and built worlds.",
+      "location": {
+        "city": "Emerald City",
+        "state": "Washington",
+        "country": "United States"
+      },
+      "metadata": {
+        "phone": "1234567890",
+        "site": "Rainforest.com",
+        "instagram": "@RainforestInstagram",
+        "facebook": "RainforestFacebook",
+        "youtube": "RainforestYT"
+      },
+      "imgs_about": ["public/95b1e927-14b7-45d0-9147-e031da5b9766/imageProfile.png"],
+      "imageProfile": ["public/95b1e927-14b7-45d0-9147-e031da5b9766/imageProfile.png"]
+    },
+    "label1": "email@example.com",
+    "label2": "active"
+  },
+  {
+    "key": "plaques:6072fa9a-c541-4333-bc9c-9ac9e49ebaef",
+    "value": {
+      "id": "6072fa9a-c541-4333-bc9c-9ac9e49ebaef",
+      "title": "bridge",
+      "description": "Oil on Canvas by Isabella Rainforest",
+      "img":["public/95b1e927-14b7-45d0-9147-e031da5b9766/bridge.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:95b1e927-14b7-45d0-9147-e031da5b9766",
+    "label2": "cityscape"
+  },
+  {
+    "key": "plaques:29c3d75d-5c85-4da0-9605-44ba0341457b",
+    "value": {
+      "id": "29c3d75d-5c85-4da0-9605-44ba0341457b",
+      "title": "bird",
+      "description": "Oil on Canvas by Isabella Rainforest",
+      "img":["public/95b1e927-14b7-45d0-9147-e031da5b9766/bird.jpg"],
+      "currency": "usd",
+      "currency_amount": "500"
+    },
+    "label1": "artist:95b1e927-14b7-45d0-9147-e031da5b9766",
     "label2": "cityscape"
   }
 ]
